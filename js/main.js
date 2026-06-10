@@ -98,6 +98,7 @@ const projects = [
   '<a href="https://inrizq.com/index" target="_blank">Inrizq</a>',
   '<a href="https://inrizq.com/admin_panel" target="_blank">Admin Panel</a>',
   '<a href="https://mountjack.com/home" target="_blank">Mount Jack</a>',
+    '<a href="https://javedkasim.github.io/study/" target="_blank">My Study</a>',
   '<a href="https://luckycarecharitabletrust.in/aurum/" target="_blank">Aurum</a>',
   '<a href="https://luckycarecharitabletrust.in/index-new.html" target="_blank">Lucky Care Charitable Trust</a>',
   '<a href="https://luckycarecharitabletrust.in/pending/landing/" target="_blank">Landing Page</a>',
