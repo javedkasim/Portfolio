@@ -105,7 +105,7 @@ const projects = [
   '<a href="https://luckycarecharitabletrust.in/kkuniverse/" target="_blank">All India Service</a>',
   '<a href="https://luckycarecharitabletrust.in/new/branding/6/" target="_blank">Branding Website</a>',
   '<a href="https://luckycarecharitabletrust.in/new/const" target="_blank">Sun Sai Construction</a>',
-  '<a href="https://javedkasim.github.io/Adarsh-portfolio/" target="_blank">Client Portfolio</a>',
+  '<a href="https://adarshyasa.github.io/Portfolio/" target="_blank">Client Portfolio</a>',
   '<a href="https://github.com/javedkasim/Tableau_Project" target="_blank">Data Analyst Project</a>',
 
 ];
